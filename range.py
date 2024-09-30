@@ -1,6 +1,8 @@
 ## In this script, there is an error.
 ## Clone this project in your machine and correct it.
 
+## adding a new line to show changes in repo
+
 ## The program finds the highest value in the randomly generated array of integer.
 ## Hint: Check whether the program will function with negative numbers range.
 import random
