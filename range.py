@@ -4,6 +4,7 @@
 ## aaaaa
 ## The program finds the highest value in the randomly generated array of integer.
 ## Hint: Check whether the program will function with negative numbers range.
+#Arjun is best employee
 import random
 
 highest = 0
